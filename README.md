@@ -22,7 +22,7 @@ Here are some of the variations generated from the Lenna image:
 | Blurred/Processed Version  | ![](figures/lenna2.png) |
 | Unquantized                | ![](figures/lenna2-unquantized.png) |
 | Allow Negative Values      | ![](figures/lenna2-allownegative.png) |
-| Final String Art Result    | ![](figures/lenna-string.png) |
+| Final String Art Result    | ![](figures/LENNA-STRING.png) |
 
 ## Getting Started
 
