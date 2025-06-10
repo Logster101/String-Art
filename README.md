@@ -13,8 +13,16 @@ This was created as a final project for ENGR5151UG (Computer Vision) in Spring 2
 
 ## Lenna Demo
 
- ![](figures/lenna.png) ![](figures/lennanew.png)  ![](figures/lenna2.png)
- ![](figures/lenna2-unquantized.png)  ![](figures/lenna2-allownegative.png)  ![](figures/lenna-string.png) 
+Here are some of the variations generated from the Lenna image:
+
+| Version                     | Output |
+|----------------------------|--------|
+| Original Lenna             | ![](figures/lenna.png) |
+| High-Contrast Version      | ![](figures/lennanew.png) |
+| Blurred/Processed Version  | ![](figures/lenna2.png) |
+| Unquantized                | ![](figures/lenna2-unquantized.png) |
+| Allow Negative Values      | ![](figures/lenna2-allownegative.png) |
+| Final String Art Result    | ![](figures/lenna-string.png) |
 
 ## Getting Started
 
