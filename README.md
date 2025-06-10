@@ -16,6 +16,8 @@ This was created as a final project for ENGR5151UG (Computer Vision) in Spring 2
 | Lenna | Star Platinum | Big Ben |
 |-------|---------------|---------|
 | ![](figures/lenna.png) | ![](figures/star_platinum.png) | ![](figures/big_ben.png) |
+|-------|---------------|---------|
+| ![](figures/lenna.png) | ![](figures/star_platinum.png) | ![](figures/big_ben.png) |
 
 ## Getting Started
 
@@ -65,6 +67,10 @@ pip install -r requirements.txt
 - [Petros Vrellis Artwork](http://artof01.com/vrellis/works/knit.html)
 - [Bresenham’s Algorithm](https://en.wikipedia.org/wiki/Bresenham%27s_line_algorithm)
 - [Daniel Varga’s String Art](https://github.com/danielvarga/string-art)
+
+## Project Presentation
+
+Slides from the original class presentation are available in the [`assets/`](assets/) folder.
 
 ## License
 
