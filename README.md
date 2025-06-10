@@ -14,8 +14,8 @@ This was created as a final project for ENGR5151UG (Computer Vision) in Spring 2
 ## Lenna Demo
 
 |-------|---------------|---------|
-| ![](figures:/lenna.png) | ![](figures:/lennanew.png) | ![](figures:/lenna2.png) |
-| ![](figures:/lenna2-unquantized.png) | ![](figures:/lenna2-allownegative.png) | ![](figures:/lenna-string.png) |
+| ![](figures/lenna.png) | ![](figures/lennanew.png) | ![](figures/lenna2.png) |
+| ![](figures/lenna2-unquantized.png) | ![](figures/lenna2-allownegative.png) | ![](figures/lenna-string.png) |
 
 ## Getting Started
 
