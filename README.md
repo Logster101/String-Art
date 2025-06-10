@@ -11,13 +11,11 @@ This was created as a final project for ENGR5151UG (Computer Vision) in Spring 2
 - Customizable number of pegs and lines
 - Runs in Google Colab or locally
 
-## Demo
+## Lenna Demo
 
-| Lenna | Star Platinum | Big Ben |
 |-------|---------------|---------|
-| ![](figures/lenna.png) | ![](figures/star_platinum.png) | ![](figures/big_ben.png) |
-|-------|---------------|---------|
-| ![](figures/lenna.png) | ![](figures/star_platinum.png) | ![](figures/big_ben.png) |
+| ![](figures:/lenna.png) | ![](figures:/lennanew.png) | ![](figures:/lenna2.png) |
+| ![](figures:/lenna2-unquantized.png) | ![](figures:/lenna2-allownegative.png) | ![](figures:/lenna-string.png) |
 
 ## Getting Started
 
